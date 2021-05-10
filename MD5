@@ -1,0 +1,10 @@
+d542a12ccd1398380892e410da6d51ea *DESCRIPTION
+ef01c3921f17a211c8adfad355dcf929 *LICENSE
+79edc2fae9956421f19e93948aba5a3d *NAMESPACE
+1d3be1a2fcef2ea9dd3f4d325ce1d2d9 *R/madgrad.R
+20bd3368c04da925fe45dae52b639f44 *README.md
+c2fcfd26d1fea942f74ed1fddbbaf91b *man/figures/plot.gif
+c70e1ef1e3974b8bc51f73e6f8227bbb *man/optim_madgrad.Rd
+2f237bee1fba5ce5d6030f8f995be1aa *tests/testthat.R
+825c34063fc3d5f01843bf2452d524e0 *tests/testthat/helper-optim.R
+6293b1707511bf39b7cf528a2e4d9e3b *tests/testthat/test-madgrad.R
